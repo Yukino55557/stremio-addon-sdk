@@ -1,0 +1,9 @@
+{
+  "id": "org.yourname.animeaddon",
+  "version": "1.0.0",
+  "name": "Simple Anime Addon",
+  "description": "Anime streaming links",
+  "resources": ["stream"],
+  "types": ["series"],
+  "idPrefixes": ["tt"]
+}
